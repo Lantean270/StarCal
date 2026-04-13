@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+opencv-python==4.5.5.62
+astropy>=5.3.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pillow>=10.1.0
+rawpy>=0.20.0
+photutils>=1.10.0
