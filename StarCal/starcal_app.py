@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 from PIL import Image, ImageOps
 import tempfile
 import os
+opencv-python
 
 # ====================== 页面配置 ======================
 st.set_page_config(page_title="StarCal 天文摄影校准工具", layout="wide")
